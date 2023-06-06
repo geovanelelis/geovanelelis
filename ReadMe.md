@@ -1,26 +1,35 @@
-Olá! eu sou o Geovane, estudante de Engenharia de Computação e apaixonado por tecnologia!
+Olá, bem-vindo ao meu perfil! 👋
 ---
-🎓 Sou formado no técnico em Mecatrônica pelo CEFET-MG.<br>💻 Possuo experiência profissional de 2 anos em design gráfico.
-<div> 
-  <a href="https://www.instagram.com/geovanelelis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/geovanelelis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a target="_blank" href = "mailto:geovanelelisds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+Meu nome é Geovane da Silva Lelis, e atualmente estou cursando Engenharia de Computação no CEFET-MG. Iniciei minha jornada na área de tecnologia durante o curso Técnico em Mecatrônica, também realizado no CEFET-MG, onde tive meu primeiro contato com programação em softwares e hardwares.
+
+Além dos estudos acadêmicos, busco constantemente oportunidades para expandir meus conhecimentos por meio de cursos online, participação em eventos e conferências relacionadas à Engenharia de Computação e à tecnologia em geral.
+
+Tenho um interesse especial em desenvolvimento front-end, UI/UX Design e desenvolvimento mobile.
 
 ---
+
+<div align="center">
+    <div>
+        <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=geovanelelis&theme=react&hide_border=false&include_all_commits=false&count_private=false">
+        <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanelelis&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    </div>
+</div>
+<br>
+
+<div align="center">
+  <img width="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+  <img width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+  <img width="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img width="50" src="https://img.icons8.com/ios-filled/50/22C3E6/react-native.png" alt="react-native"/>
+  <img width="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
+</div>
 
 <div>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=geovanelelis&theme=react&hide_border=false&include_all_commits=false&count_private=false">
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanelelis&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<h2>Acompanhe minha jornada! 📫</h2>
+<div> 
+  <a href="https://www.instagram.com/geovanelelis/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/geovanelelis"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:geovanelelisds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
----
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Geovane-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Geovane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Geovane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Geovane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Geovane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Geovane-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-</div>
+  </div>
