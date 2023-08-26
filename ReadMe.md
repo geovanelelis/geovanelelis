@@ -1,10 +1,10 @@
 Olá, bem-vindo ao meu perfil! 👋
 ---
-Meu nome é Geovane da Silva Lelis, e atualmente estou cursando Engenharia de Computação no CEFET-MG. Iniciei minha jornada na área de tecnologia durante o curso Técnico em Mecatrônica, também realizado no CEFET-MG, onde tive meu primeiro contato com programação em softwares e hardwares.
+Meu nome é Geovane da Silva Lelis e atualmente estou cursando Engenharia de Computação pelo CEFET-MG. Iniciei minha jornada na área de tecnologia durante o curso Técnico em Mecatrônica, também realizado no CEFET-MG, onde tive meus primeiros contatos com a programação em softwares e hardwares.
 
-Além dos estudos acadêmicos, busco constantemente oportunidades para expandir meus conhecimentos por meio de cursos online, participação em eventos e conferências relacionadas à Engenharia de Computação e à tecnologia em geral.
+Além dos estudos acadêmicos, busco constantemente oportunidades para expandir meus conhecimentos através de cursos online, participação em eventos e conferências relacionadas à Engenharia de Computação e à tecnologia de forma geral. Tenho grande paixão pelo desenvolvimento web, especialmente voltado ao Front-End. Possuo experiência em C, HTML, CSS, JavaScript, além de familiaridade com React e TypeScript. Estou sempre em busca de aprimorar meus conhecimentos, participando de cursos online e eventos relevantes. Estou comprometido em meu crescimento profissional e ansioso para agregar valor a projetos desafiadores.
 
-Tenho um interesse especial em desenvolvimento front-end, UI/UX Design e desenvolvimento mobile.
+Estou animado com as possibilidades que a Engenharia de Computação oferece e comprometido em me tornar um profissional de destaque nessa área. Pretendo continuar me dedicando ao aprendizado contínuo e à busca por projetos desafiadores que me permitam aplicar e aprimorar minhas habilidades técnicas.
 
 ---
 
