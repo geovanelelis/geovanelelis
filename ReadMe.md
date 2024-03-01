@@ -1,4 +1,4 @@
-Hello, bem-vindo(a) ao meu perfil! 👋
+<div align="center">Hello, bem-vindo(a) ao meu perfil! 👋</div>
 ---
 😉 Meu nome é Geovane da Silva Lelis e atualmente estou cursando Engenharia de Computação pelo CEFET-MG. 🚀 Iniciei minha jornada na área de tecnologia durante o curso Técnico em Mecatrônica, também realizado no CEFET-MG, onde tive meus primeiros contatos com a programação em softwares e hardwares.
 
@@ -27,7 +27,7 @@ Meu objetivo? Tornar-me um desenvolvedor Full Stack, dominando tanto o Front-end
   <img width="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
 </div>
 
-<div>
+<div align="center">
 <h2>Acompanhe minha jornada! 📫</h2>
 <div> 
   <a href="https://www.instagram.com/geovanelelis/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
