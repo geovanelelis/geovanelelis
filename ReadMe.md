@@ -1,5 +1,5 @@
 <h1 align="center">Hello, bem-vindo(a) ao meu perfil! 👋</h1>
----
+
 😉 Meu nome é Geovane da Silva Lelis e atualmente estou cursando Engenharia de Computação pelo CEFET-MG. 🚀 Iniciei minha jornada na área de tecnologia durante o curso Técnico em Mecatrônica, também realizado no CEFET-MG, onde tive meus primeiros contatos com a programação em softwares e hardwares.
 
 📚 Além dos estudos acadêmicos, busco constantemente oportunidades para expandir 🤯 meus conhecimentos através de cursos online, participação em eventos e conferências relacionadas à Engenharia de Computação e à tecnologia de forma geral. 
