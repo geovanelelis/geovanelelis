@@ -1,10 +1,14 @@
-Olá, bem-vindo ao meu perfil! 👋
+Hello, bem-vindo(a) ao meu perfil! 👋
 ---
-Meu nome é Geovane da Silva Lelis e atualmente estou cursando Engenharia de Computação pelo CEFET-MG. Iniciei minha jornada na área de tecnologia durante o curso Técnico em Mecatrônica, também realizado no CEFET-MG, onde tive meus primeiros contatos com a programação em softwares e hardwares.
+😉 Meu nome é Geovane da Silva Lelis e atualmente estou cursando Engenharia de Computação pelo CEFET-MG. 🚀 Iniciei minha jornada na área de tecnologia durante o curso Técnico em Mecatrônica, também realizado no CEFET-MG, onde tive meus primeiros contatos com a programação em softwares e hardwares.
 
-Além dos estudos acadêmicos, busco constantemente oportunidades para expandir meus conhecimentos através de cursos online, participação em eventos e conferências relacionadas à Engenharia de Computação e à tecnologia de forma geral. Tenho grande paixão pelo desenvolvimento web, especialmente voltado ao Front-End. Possuo experiência em C, HTML, CSS, JavaScript, além de familiaridade com React e TypeScript. Estou sempre em busca de aprimorar meus conhecimentos, participando de cursos online e eventos relevantes. Estou comprometido em meu crescimento profissional e ansioso para agregar valor a projetos desafiadores.
+📚 Além dos estudos acadêmicos, busco constantemente oportunidades para expandir 🤯 meus conhecimentos através de cursos online, participação em eventos e conferências relacionadas à Engenharia de Computação e à tecnologia de forma geral. 
 
-Estou animado com as possibilidades que a Engenharia de Computação oferece e comprometido em me tornar um profissional de destaque nessa área. Pretendo continuar me dedicando ao aprendizado contínuo e à busca por projetos desafiadores que me permitam aplicar e aprimorar minhas habilidades técnicas.
+Tenho grande paixão pelo desenvolvimento web 💻, especialmente voltado ao Front-End. 💡 Possuo experiência em C, HTML, CSS, JavaScript, além de familiaridade com React e TypeScript. Estou comprometido ✅ com meu crescimento profissional e ansioso para agregar valor a projetos desafiadores.
+
+Meu objetivo? Tornar-me um desenvolvedor Full Stack, dominando tanto o Front-end quanto o Back-end. 🌐 Tenho o interesse em explorar e aprimorar minhas habilidades em ambas as áreas, buscando contribuir de maneira abrangente para o desenvolvimento de projetos.
+
+😄 Estou entusiasmado com as infinitas possibilidades que a Engenharia de Computação oferece e comprometido em me destacar como profissional nessa área 👨‍💻. Pretendo continuar dedicado ao aprendizado contínuo e à busca por projetos desafiadores para aplicar e aprimorar minhas habilidades técnicas. Vamos juntos nessa jornada emocionante! 🌟
 
 ---
 
