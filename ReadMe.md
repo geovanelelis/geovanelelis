@@ -8,8 +8,6 @@ Tenho grande paixão pelo desenvolvimento web 💻, especialmente voltado ao Fro
 
 Meu objetivo? Tornar-me um desenvolvedor Full Stack, dominando tanto o Front-end quanto o Back-end. 🌐 Tenho o interesse em explorar e aprimorar minhas habilidades em ambas as áreas, buscando contribuir de maneira abrangente para o desenvolvimento de projetos.
 
-😄 Estou entusiasmado com as infinitas possibilidades que a Engenharia de Computação oferece e comprometido em me destacar como profissional nessa área 👨‍💻. Pretendo continuar dedicado ao aprendizado contínuo e à busca por projetos desafiadores para aplicar e aprimorar minhas habilidades técnicas. Vamos juntos nessa jornada emocionante! 🌟
-
 ---
 
 <div align="center">
