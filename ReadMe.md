@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso *
 Combinando criatividade, lógica e curiosidade, busco construir soluções que realmente façam a diferença. Tenho atuado em projetos reais, tanto no estágio com **React, Typescript, C# e ASP.NET**, quanto em projetos pessoais para o desenvolvimento das minhas habilidades.
 Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, explorar novas tecnologias e contribuir com projetos que tenham propósito.  
 
-<img align="right" alt="" height="300px" src="https://chatgpt.com/backend-api/public_content/enc/eyJpZCI6Im1fNjgzNjNjYmVhODI0ODE5MTlhZGYzZTJkOTI1OGQ1OTY6ZmlsZV8wMDAwMDAwMDcxMjQ2MjJmODhmNmMxZmFmODk2NzdhNSIsInRzIjoiNDg1NjYyIiwicCI6InB5aSIsInNpZyI6ImQyMTcxZTY3ZWI4ZDkzY2FmMjUxODQ1MzhkODIzYTY3NzRjNWYyYjMzZDFmYzZjOTMyMjY0ZGNhM2E2NTY3MWIiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsfQ==">
+<img align="right" alt="" height="300px" src="https://sdmntprcentralus.oaiusercontent.com/files/00000000-4a1c-61f5-8a71-e0d464f04be5/raw?se=2025-05-28T02%3A37%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=3ba2138d-1ec7-556d-a5ff-99b35b9e039b&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-27T21%3A24%3A06Z&ske=2025-05-28T21%3A24%3A06Z&sks=b&skv=2024-08-04&sig=tR/GXy6eDymYCEKegwgqZqiRvG62DEgcd5lRw4kRynY%3D">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="30" height="30" /> Atualmente...
 - Aprimorando minhas habilidades em inglês e desenvolvimento full stack por meio de cursos da Udemy e OneBitCode. 
@@ -54,6 +54,12 @@ Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, ex
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Principais Linguagens</summary>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanelelis&size_weight=0.5&count_weight=0.5&theme=react" alt="Top Langs"></p>
 </details>
-<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Valeu+por+visitar+meu+perfil!;%F0%9F%92%BB+Confira+meus+projetos+aqui+no+GitHub;%F0%9F%98%83+Curto+compartilhar+e+aprender+sempre;%F0%9F%98%89+Me+chama+pra+trocar+uma+ideia;%F0%9F%94%97+Vamos+nos+conectar+no+LinkedIn;%F0%9F%8C%9F+Te+desejo+um+%C3%B3timo+dia!)](https://git.io/typing-svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geovanelelis/geovanelelis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geovanelelis/geovanelelis/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/geovanelelis/geovanelelis/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=550&lines=%F0%9F%91%8B+Valeu+por+visitar+meu+perfil!;%F0%9F%92%BB+Confira+meus+projetos+aqui+no+GitHub;%F0%9F%98%83+Curto+compartilhar+e+aprender+sempre;%F0%9F%98%89+Me+chama+pra+trocar+uma+ideia;%F0%9F%94%97+Vamos+nos+conectar+no+LinkedIn;%F0%9F%8C%9F+Te+desejo+um+%C3%B3timo+dia!)](https://git.io/typing-svg)
