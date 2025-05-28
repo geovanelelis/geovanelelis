@@ -1,37 +1,59 @@
-<h1 align="center">Hello, bem-vindo(a) ao meu perfil! 👋</h1>
+# Hello! Eu sou o Geovane <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="35" height="35" align="center"/>
 
-😉 Meu nome é Geovane da Silva Lelis e atualmente estou cursando Engenharia de Computação pelo CEFET-MG. 🚀 Iniciei minha jornada na área de tecnologia durante o curso Técnico em Mecatrônica, também realizado no CEFET-MG, onde tive meus primeiros contatos com a programação em softwares e hardwares.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%92%BB+Sou+Desenvedor+de+Software;%F0%9F%A7%80+Sou+da+terra+do+p%C3%A3o+de+queijo%F0%9F%93%8DMG;%F0%9F%98%80+Gosto+de+resolver+B.O...+programar+%3A3;%F0%9F%91%BE+Gosto+de+animes%2C+m%C3%BAsicas+e+jogos;%E2%9C%9D%EF%B8%8F+Eu+amo+Jesus!)](https://git.io/typing-svg)
 
-📚 Além dos estudos acadêmicos, busco constantemente oportunidades para expandir 🤯 meus conhecimentos através de cursos online, participação em eventos e conferências relacionadas à Engenharia de Computação e à tecnologia de forma geral. 
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso **Engenharia de Computação no CEFET-MG** e estou em constante evolução na área de **desenvolvimento web**, com foco em **Front-End** e interesse crescente pelo universo **Full Stack**.
+Combinando criatividade, lógica e curiosidade, busco construir soluções que realmente façam a diferença. Tenho atuado em projetos reais, tanto no estágio com **React, Typescript, C# e ASP.NET**, quanto em projetos pessoais para o desenvolvimento das minhas habilidades.
+Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, explorar novas tecnologias e contribuir com projetos que tenham propósito.  
 
-Tenho grande paixão pelo desenvolvimento web 💻, especialmente voltado ao Front-End. 💡 Possuo experiência em C, HTML, CSS, JavaScript, além de familiaridade com React e TypeScript. Estou comprometido ✅ com meu crescimento profissional e ansioso para agregar valor a projetos desafiadores.
+<img align="right" alt="" height="300px" src="https://chatgpt.com/backend-api/public_content/enc/eyJpZCI6Im1fNjgzNjNjYmVhODI0ODE5MTlhZGYzZTJkOTI1OGQ1OTY6ZmlsZV8wMDAwMDAwMDcxMjQ2MjJmODhmNmMxZmFmODk2NzdhNSIsInRzIjoiNDg1NjYyIiwicCI6InB5aSIsInNpZyI6ImQyMTcxZTY3ZWI4ZDkzY2FmMjUxODQ1MzhkODIzYTY3NzRjNWYyYjMzZDFmYzZjOTMyMjY0ZGNhM2E2NTY3MWIiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsfQ==">
 
-Meu objetivo? Tornar-me um desenvolvedor Full Stack, dominando tanto o Front-end quanto o Back-end. 🌐 Tenho o interesse em explorar e aprimorar minhas habilidades em ambas as áreas, buscando contribuir de maneira abrangente para o desenvolvimento de projetos.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="30" height="30" /> Atualmente...
+- Aprimorando minhas habilidades em inglês e desenvolvimento full stack por meio de cursos da Udemy e OneBitCode. 
+- Aprendendo sobre Docker e sua aplicação com containers em ambientes de desenvolvimento.
 
----
 
-<div align="center">
-    <div>
-        <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=geovanelelis&theme=react&hide_border=false&include_all_commits=false&count_private=false">
-        <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanelelis&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-    </div>
-</div>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" /> Tecnologias que estou aprendendo
+- React, Next.js e TypeScript são as bases do meu dia a dia como dev Front-End.
+- Estou explorando o uso de Docker Desktop, Portainer e Docker Swarm no ambiente do estágio.
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" /> Vamos nos conectar!
+[![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geovanelelisds@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/geovanelelis)
 <br>
 
-<div align="center">
-  <img width="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  <img width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-  <img width="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="50" src="https://img.icons8.com/ios-filled/50/22C3E6/react-native.png" alt="react-native"/>
-  <img width="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
-</div>
+##
 
-<div align="center">
-<h2>Acompanhe minha jornada! 📫</h2>
-<div> 
-  <a href="https://www.instagram.com/geovanelelis/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/geovanelelis"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:geovanelelisds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-  </div>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Minhas Skills
+
+### Linguagens e Tecnologias
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,java,dotnet" />
+</a>
+
+### Frameworks e Bibliotecas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,firebase,materialui,postgres,tailwind" />
+</a>
+
+### Ferramentas e Plataformas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,npm,figma,yarn,wordpress" />
+</a>
+<br><br>
+
+<details>
+  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Status</summary>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=geovanelelis&show_icons=true&theme=react" /></p>
+</details>
+<details>
+  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Contribuições</summary>
+  <p><img src="https://streak-stats.demolab.com?user=geovanelelis&theme=react" /></p>
+</details>
+<details>
+  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Principais Linguagens</summary>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanelelis&size_weight=0.5&count_weight=0.5&theme=react" alt="Top Langs"></p>
+</details>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Valeu+por+visitar+meu+perfil!;%F0%9F%92%BB+Confira+meus+projetos+aqui+no+GitHub;%F0%9F%98%83+Curto+compartilhar+e+aprender+sempre;%F0%9F%98%89+Me+chama+pra+trocar+uma+ideia;%F0%9F%94%97+Vamos+nos+conectar+no+LinkedIn;%F0%9F%8C%9F+Te+desejo+um+%C3%B3timo+dia!)](https://git.io/typing-svg)
