@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/geovanelelis"><img width="100%" alt="Hello, I'm Geovane. Welcome to my profile :)" src="./src/header.png" /></a></p>
+<p align="center"><a href="https://github.com/geovanelelis"><img width="80%" alt="Hello, I'm Geovane. Welcome to my profile :)" src="./src/header1.png" /></a></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=f7f7f7&width=500&lines=%F0%9F%92%BB+Sou+Desenvedor+de+Software;%F0%9F%A7%80+Sou+da+terra+do+p%C3%A3o+de+queijo%F0%9F%93%8DMG;%F0%9F%98%80+Gosto+de+resolver+B.O...+programar+%3A3;%F0%9F%91%BE+Gosto+de+animes%2C+m%C3%BAsicas+e+jogos;%E2%9C%9D%EF%B8%8F+Eu+amo+Jesus!)](https://git.io/typing-svg)
 
