@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso *
 Combinando criatividade, lógica e curiosidade, busco construir soluções que realmente façam a diferença. Tenho atuado em projetos reais, tanto no estágio com **React, Typescript, C# e ASP.NET**, quanto em projetos pessoais para o desenvolvimento das minhas habilidades.
 Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, explorar novas tecnologias e contribuir com projetos que tenham propósito.  
 
-<img align="right" alt="" height="300px" src="https://sdmntprcentralus.oaiusercontent.com/files/00000000-4a1c-61f5-8a71-e0d464f04be5/raw?se=2025-05-28T02%3A37%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=3ba2138d-1ec7-556d-a5ff-99b35b9e039b&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-27T21%3A24%3A06Z&ske=2025-05-28T21%3A24%3A06Z&sks=b&skv=2024-08-04&sig=tR/GXy6eDymYCEKegwgqZqiRvG62DEgcd5lRw4kRynY%3D">
+<img align="right" alt="" height="300px" src="./src/geovane_estilo_anime.png">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="30" height="30" /> Atualmente...
 - Aprimorando minhas habilidades em inglês e desenvolvimento full stack por meio de cursos da Udemy e OneBitCode. 
