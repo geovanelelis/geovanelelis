@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/geovanelelis"><img width="80%" alt="Hello, I'm Geovane. Welcome to my profile :)" src="./src/header1.png" /></a></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=f7f7f7&width=500&lines=%F0%9F%92%BB+Sou+Desenvedor+de+Software;%F0%9F%A7%80+Sou+da+terra+do+p%C3%A3o+de+queijo%F0%9F%93%8DMG;%F0%9F%98%80+Gosto+de+resolver+B.O...+programar+%3A3;%F0%9F%91%BE+Gosto+de+animes%2C+m%C3%BAsicas+e+jogos;%E2%9C%9D%EF%B8%8F+Eu+amo+Jesus!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=f7f7f7&width=500&lines=%F0%9F%92%BB+Sou+Desenvedor+Front-End;%F0%9F%A7%80+Sou+da+terra+do+p%C3%A3o+de+queijo%F0%9F%93%8DMG;%F0%9F%98%80+Gosto+de+resolver+B.O...+programar+%3A3;%F0%9F%91%BE+Gosto+de+animes%2C+m%C3%BAsicas+e+jogos;%E2%9C%9D%EF%B8%8F+Eu+amo+Jesus!)](https://git.io/typing-svg)
 
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso **Engenharia de Computação no CEFET-MG** e estou em constante evolução na área de **desenvolvimento web**, com foco em **Front-End** e interesse crescente pelo universo **Full Stack**.
 Combinando criatividade, lógica e curiosidade, busco construir soluções que realmente façam a diferença. Tenho atuado em projetos reais, tanto no estágio com **React, Typescript, C# e ASP.NET**, quanto em projetos pessoais para o desenvolvimento das minhas habilidades.
@@ -28,17 +28,17 @@ Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, ex
 
 ### Linguagens e Tecnologias
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,java,dotnet" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,java" />
 </a>
 
 ### Frameworks e Bibliotecas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,firebase,materialui,postgres,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,postgres,tailwind" />
 </a>
 
 ### Ferramentas e Plataformas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,npm,figma,yarn,wordpress" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,figma,wordpress" />
 </a>
 <br><br>
 
