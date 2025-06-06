@@ -8,14 +8,10 @@ Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, ex
 
 <img align="right" alt="" height="300px" src="./src/geovane_estilo_anime.png">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="30" height="30" /> Atualmente...
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Atualmente...
+- React, Next.js e TypeScript são as bases do meu dia a dia como dev front-end, então tenho me aprimorado nessas tecnologias.
 - Aprimorando minhas habilidades em inglês e desenvolvimento full stack por meio de cursos da Udemy e OneBitCode. 
 - Aprendendo sobre Docker e sua aplicação com containers em ambientes de desenvolvimento.
-
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" /> Tecnologias que estou aprendendo
-- React, Next.js e TypeScript são as bases do meu dia a dia como dev Front-End.
-- Estou explorando o uso de Docker Desktop, Portainer e Docker Swarm no ambiente do estágio.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" /> Vamos nos conectar!
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geovanelelisds@gmail.com)
