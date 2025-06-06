@@ -18,7 +18,6 @@ Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, ex
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/geovanelelis)
 <br>
 
-##
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Minhas Skills
 
