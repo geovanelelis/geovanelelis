@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso *
 Combinando criatividade, lógica e curiosidade, busco construir soluções que realmente façam a diferença. Tenho atuado em projetos reais, tanto no estágio com **React, Typescript, C# e ASP.NET**, quanto em projetos pessoais para o desenvolvimento das minhas habilidades.
 Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, explorar novas tecnologias e contribuir com projetos que tenham propósito.  
 
-<img align="right" alt="" height="300px" src="./src/geovane_estilo_anime.png">
+<img align="right" alt="" height="280px" src="./src/geovane_estilo_anime.png">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Atualmente...
 - React, Next.js e TypeScript são as bases do meu dia a dia como dev front-end, então tenho me aprimorado nessas tecnologias.
@@ -18,6 +18,7 @@ Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, ex
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/geovanelelis)
 <br>
 
+#
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Minhas Skills
 
