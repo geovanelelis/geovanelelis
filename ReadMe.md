@@ -8,7 +8,7 @@ Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, ex
 
 <img align="right" alt="" height="280px" src="./src/geovane_estilo_anime.png">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Atualmente...
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Atualmente...
 - React, Next.js e TypeScript são as bases do meu dia a dia como dev front-end, então tenho me aprimorado nessas tecnologias.
 - Aprimorando minhas habilidades em inglês e desenvolvimento full stack por meio de cursos da Udemy e OneBitCode. 
 - Aprendendo sobre Docker e sua aplicação com containers em ambientes de desenvolvimento.
@@ -22,17 +22,22 @@ Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, ex
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Minhas Skills
 
-### Linguagens e Tecnologias
+### Linguagens de Programação
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,java" />
 </a>
 
 ### Frameworks e Bibliotecas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,postgres,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,bootstrap" />
 </a>
 
-### Ferramentas e Plataformas
+### Banco de Dados e Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,postgres" />
+</a>
+
+### Ferramentas e DevOps
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,figma,wordpress" />
 </a>
@@ -41,10 +46,6 @@ Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, ex
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Status</summary>
   <p><img src="https://github-readme-stats.vercel.app/api?username=geovanelelis&show_icons=true&theme=react" /></p>
-</details>
-<details>
-  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Contribuições</summary>
-  <p><img src="https://streak-stats.demolab.com?user=geovanelelis&theme=react" /></p>
 </details>
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Principais Linguagens</summary>
