@@ -32,7 +32,7 @@ Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, ex
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,bootstrap" />
 </a>
 
-### Banco de Dados e Backend
+### Banco de Dados
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=firebase,postgres" />
 </a>
