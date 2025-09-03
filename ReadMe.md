@@ -1,17 +1,16 @@
 <p align="center"><a href="https://github.com/geovanelelis"><img width="80%" alt="Hello, I'm Geovane. Welcome to my profile :)" src="./src/header1.png" /></a></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=f7f7f7&width=500&lines=%F0%9F%92%BB+Sou+Desenvedor+Front-End;%F0%9F%A7%80+Sou+da+terra+do+p%C3%A3o+de+queijo%F0%9F%93%8DMG;%F0%9F%98%80+Gosto+de+resolver+B.O...+programar+%3A3;%F0%9F%91%BE+Gosto+de+animes%2C+m%C3%BAsicas+e+jogos;%E2%9C%9D%EF%B8%8F+Eu+amo+Jesus!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=f7f7f7&width=500&lines=%F0%9F%92%BB+Sou+Desenvedor+Full+Stack;%F0%9F%A7%80+Sou+da+terra+do+p%C3%A3o+de+queijo%F0%9F%93%8DMG;%F0%9F%98%80+Gosto+de+resolver+B.O...+programar+%3A3;%F0%9F%91%BE+Gosto+de+animes%2C+m%C3%BAsicas+e+jogos;%E2%9C%9D%EF%B8%8F+Eu+amo+Jesus!)](https://git.io/typing-svg)
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso **Engenharia de Computação no CEFET-MG** e estou em constante evolução na área de **desenvolvimento web**, com foco em **Front-End** e interesse crescente pelo universo **Full Stack**.
-Combinando criatividade, lógica e curiosidade, busco construir soluções que realmente façam a diferença. Tenho atuado em projetos reais, tanto no estágio com **React, Typescript, C# e ASP.NET**, quanto em projetos pessoais para o desenvolvimento das minhas habilidades.
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso **Engenharia de Computação no CEFET-MG** e estou em constante evolução na área de **desenvolvimento de software**, com foco crescente pelo universo **Full Stack**.
+Combinando criatividade, lógica e curiosidade, busco construir soluções que realmente façam a diferença. Tenho atuado em projetos reais, tanto no estágio quanto em projetos pessoais para o desenvolvimento das minhas habilidades.
 Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, explorar novas tecnologias e contribuir com projetos que tenham propósito.  
 
 <img align="right" alt="" height="280px" src="./src/geovane_estilo_anime.png">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Atualmente...
-- React, Next.js e TypeScript são as bases do meu dia a dia como dev front-end, então tenho me aprimorado nessas tecnologias.
-- Aprimorando minhas habilidades em inglês e desenvolvimento full stack por meio de cursos da Udemy e OneBitCode. 
-- Aprendendo sobre Docker e sua aplicação com containers em ambientes de desenvolvimento.
+- React, Next.js e TypeScript têm sido as bases do meu dia a dia como dev.
+- Aprimorando minhas habilidades em inglês e desenvolvimento full stack por meio de cursos e projetos práticos. 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" /> Vamos nos conectar!
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geovanelelisds@gmail.com)
@@ -24,7 +23,7 @@ Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, ex
 
 ### Linguagens de Programação
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,java" />
 </a>
 
 ### Frameworks e Bibliotecas
@@ -43,10 +42,6 @@ Acredito no poder do aprendizado contínuo e adoro compartilhar conhecimento, ex
 </a>
 <br><br>
 
-<details>
-  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Status</summary>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=geovanelelis&show_icons=true&theme=react" /></p>
-</details>
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Principais Linguagens</summary>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanelelis&size_weight=0.5&count_weight=0.5&theme=react" alt="Top Langs"></p>
